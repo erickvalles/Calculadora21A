@@ -8,6 +8,7 @@ import android.widget.EditText
 
 class MainActivity : AppCompatActivity(), View.OnClickListener {
 
+    //https://github.com/erickvalles/Calculadora21A
     var operacion = ""
     var operacionPendiente = false
     var existeResultado = false
